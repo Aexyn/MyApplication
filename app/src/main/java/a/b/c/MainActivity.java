@@ -24,6 +24,7 @@ public class MainActivity extends ActionBarActivity {
                 startActivity(new Intent(MainActivity.this, MainActivity2.class));
             }
         });
+        //Just A comment
     }
 
     private void myMethod() {
