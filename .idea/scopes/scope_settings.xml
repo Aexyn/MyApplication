@@ -1,0 +1,10 @@
+<component name="DependencyValidationManager">
+  <state>
+    <unnamed_scope value="src[app]:a.b.c.MainActivity3" />
+    <unnamed_scope value="src[app]:a.b.c.R" />
+    <deny_rule from_scope="src[app]:a.b.c.MainActivity3" to_scope="src[app]:a.b.c.R" is_deny="true" />
+    <deny_rule from_scope="src[app]:a.b.c.MainActivity3" to_scope="src[app]:a.b.c.R" is_deny="true" />
+    <deny_rule from_scope="src[app]:a.b.c.MainActivity3" to_scope="src[app]:a.b.c.R" is_deny="true" />
+    <deny_rule from_scope="src[app]:a.b.c.MainActivity3" to_scope="src[app]:a.b.c.R" is_deny="true" />
+  </state>
+</component>
