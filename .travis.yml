@@ -6,3 +6,11 @@ script:
 branches:
   only:
     - master
+
+android:
+  components:
+    - build-tools-20.0.0
+    - android-L
+    - sys-img-x86-android-tv-l
+    - add-on
+    - extra
